@@ -1,0 +1,2 @@
+https://www.kaggle.com/code/nehahatti/rain-in-australia
+https://vincentarelbundock.github.io/Rdatasets/datasets.html
